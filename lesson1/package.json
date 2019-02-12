@@ -1,0 +1,15 @@
+{
+  "name": "lesson1",
+  "version": "1.0.0",
+  "description": "一个简单的express例子",
+  "main": "app.js",
+  "scripts": {
+    "test": "exit"
+  },
+  "author": "wuchulei",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "utility": "^1.15.0"
+  }
+}
